@@ -1,6 +1,6 @@
 {
   "name": "@altipla/vue-template-compiler-loader",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Webpack loader to pre-compile Vue 2.0 templates. - Allows custom compiler options.",
   "main": "index.js",
   "repository": {
